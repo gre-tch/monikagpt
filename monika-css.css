@@ -70,7 +70,7 @@ main > div > div > div > div > div:nth-last-child(-n + 2) p {
     color: #fff !important;
     font-weight: 800;
     font-size: 1.125rem;
-    text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000; -1px -1px 0 #000;
+    text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
 }
 main > div > div > div > div > div:nth-last-child(-n + 2) svg {
     display: none !Important;
