@@ -90,7 +90,7 @@ main > div > div > div > div > div:nth-last-child(-n + 2):after {
     padding: 0 1.5rem;
     top: calc(-3rem - 4px);
     left: 1.5rem;
-    text-shadow: -2px 2px 0 pink, 2px 2px 0 pink, 2px -2px 0 pink; -2px -2px 0 pink;
+    text-shadow: -2px 2px 0 #b59, 2px 2px 0 #b59, 2px -2px 0 #b59, -2px -2px 0 #b59;
     color: #fff !important;
     background: rgba(255,255,255,0.8);
     box-shadow: inset 0 -1px 5px 1px rgba(0,0,0,0.3)
